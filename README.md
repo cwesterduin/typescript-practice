@@ -1,2 +1,2 @@
-# Typescript Practice
-Simple example of typescript project with tests
+# TypeScript Practice
+Simple example of TypeScript project with tests
